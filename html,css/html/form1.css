@@ -1,0 +1,30 @@
+form
+{
+    border: rgb(211, 211, 226);
+text-align: left;
+background-color:lightcyan;
+
+}
+*{
+    background-color:lightcyan; 
+}
+h1
+{
+    text-align: center;
+border: 5px groove  rgb(100, 100, 145);
+padding: 10px;
+background-color:bisque;
+}
+#age{
+    box-sizing: 10px;
+}
+label{
+    font-size:15px;
+    background-color:beige;
+    
+}
+legend{
+    background-color: aquamarine;
+}
+
+
